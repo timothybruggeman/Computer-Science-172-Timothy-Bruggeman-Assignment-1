@@ -1,0 +1,5 @@
+﻿  Source.cpp
+f:\cs 2\ex01_01\ex01_01\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\cs 2\ex01_01\ex01_01\source.cpp(86): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  EX01_01.vcxproj -> F:\CS 2\EX01_01\Debug\EX01_01.exe
+  EX01_01.vcxproj -> F:\CS 2\EX01_01\Debug\EX01_01.pdb (Full PDB)
